@@ -19,3 +19,5 @@
 	string respectively. Thus we have first encrypted word.
 	-do previous step with using key2 and get second encrypted word.
 	-Therefore, we have 2 encrypted words for the set of strings.
+
+    Demo site: https://gentle-lake-82866.herokuapp.com/compute
