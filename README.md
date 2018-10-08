@@ -1,4 +1,6 @@
-	--TOBB ETU BIL481 HOMEWORK1--
+	[![Build Status](https://travis-ci.org/MArifSahin/myDemoApp.svg?branch=master)](https://travis-ci.org/MArifSahin/myDemoApp)
+    
+    --TOBB ETU BIL481 HOMEWORK1--
 
 	In this app, we will simply take 5 parameters which 2 of them are Integer
 	ArrayList,2 of them are integer and 1 String ArrayList. This code do some 
